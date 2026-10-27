@@ -44,6 +44,10 @@ npx expo start
 Abra no celular com o app Expo Go (escaneie o QR code).
 
 ## Prints
+<img width="451" height="906" alt="image" src="https://github.com/user-attachments/assets/6b8a9843-6760-4874-b0c4-24fd9f7bab57" />
+<img width="448" height="884" alt="image" src="https://github.com/user-attachments/assets/aa18bf94-f721-4669-b025-c1502940e422" />
+<img width="460" height="865" alt="image" src="https://github.com/user-attachments/assets/a7ae9e54-4bb3-4166-95c5-397417b71238" />
+<img width="460" height="873" alt="image" src="https://github.com/user-attachments/assets/f10ed5c4-c244-49f7-8fc2-8b9fe2ecde55" />
 
 
 ## Limitação conhecida
